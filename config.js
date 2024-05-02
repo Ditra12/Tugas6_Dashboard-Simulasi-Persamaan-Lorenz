@@ -4,13 +4,13 @@ const config = {
     labels: t,
     datasets: [{
       // backgroundColor:"rgba(0,0,255,1.0)",
-      borderColor: "rgba(255,0,255,0.1)",
+      borderColor: "#4CE7C042",
       data: P1,
       label: "P1"
     },
-              {
+    {
       // backgroundColor:"rgba(0,0,255,1.0)",
-      borderColor: "rgba(255,255,0,0.1)",
+      borderColor: "#FF7CA86B",
       data: P2,
       label: "P2"
     }]
